@@ -1,4 +1,6 @@
-StarsSVG
+The SVGStar.hs file generates descriptions of starts in Scalar Vector Graphic (SVG) format. The function showStar is used to calculate the descriptions for the SVG format. The writeStar function can be called to show the SVG stars in HTML. A Tests.hs file is provided
+
+
 
 
 The inputs to the showStar function consist of the following:
