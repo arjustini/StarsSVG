@@ -1,8 +1,7 @@
 StarsSVG
 
 
-The inputs to the showStar function consist of the following:
-- tx: amount along the x-axis to translate the star, where the top left corner of a page is
+The inputs to the showStar function consist of the following:- tx: amount along the x-axis to translate the star, where the top left corner of a page is
 coordinate (0,0).
 - ty: amount in the y-axis to translate the star.
 - r: the radius of the star (distance from the center to each point of the star)
